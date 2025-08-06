@@ -1,7 +1,7 @@
 # sage-50-uk-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Sage 50 UK
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Sage 50 UK (beta)](https://www.cdata.com/download/download.aspx?sku=CSZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Sage 50 UK (beta)](https://www.cdata.com/download/download.aspx?sku=CSZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Sage 50 UK supported by the [CData JDBC Driver for Sage 50 UK](https://www.cdata.com/drivers/sageuk/jdbc).
 
